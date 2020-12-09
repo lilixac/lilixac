@@ -1,6 +1,15 @@
-<h1 align="center">⚡️ Hello, I'm Newton ⚡️</h1>
+<h1 align="center">Hey there!</h1>
 
-<p align="center">🔭 I am a computer engineering student.</p>
+<h3> I'm Newton Poudel </h3>
+
+<hr/>
+
+<p> Blockchain Development, Machine Learning, Linux, ReactJS </p>
+
+<hr/>
+
+[![Twitter](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/lilixac)
+
 
 
 
