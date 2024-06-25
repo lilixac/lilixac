@@ -1,10 +1,4 @@
-<h2 align="center">Hey there!</h2>
-
-<h3> I'm Newton Poudel </h3>
-
-<hr/>
-
-<p>Blockchain Development, Machine Learning, Linux, ReactJS </p>
+<p> Figuring out..</p>
 
 
 
